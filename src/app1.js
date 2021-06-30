@@ -7,7 +7,6 @@ const $button3 = $("#mul2");
 const $button4 = $("#divide2");
 const $number = $("#number");
 
-// localStorage.setItem('n',100);
 
 const n = localStorage.getItem("n");
 
